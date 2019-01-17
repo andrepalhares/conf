@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>Sistema Confúcio</title>
+    <title>Instituto Confúcio</title>
+	<link rel="icon" href="images/logo.png" sizes="32x32" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -23,7 +24,7 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+	
   </head>
   <body>
   <div class="site-wrap">
